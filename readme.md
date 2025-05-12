@@ -13,4 +13,6 @@ git remote add origin https://github.com/reactivepixel/git-demo-time.git
 git branch
 git add -A
 git status
+git commmit -m "message"
+git push origin master
 ```
