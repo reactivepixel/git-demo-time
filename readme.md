@@ -32,7 +32,7 @@ git checkout dev
 git merge feature-name
 ```
 
-Share our code with others
+Push our changes to the remote so that other devs can use this.
 ```
 git checkout dev
 git push origin dev
